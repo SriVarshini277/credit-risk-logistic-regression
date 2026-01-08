@@ -40,7 +40,7 @@ The selected threshold prioritizes identifying bad credit risks, aligning with t
 - germancredit.txt – Dataset with headers
 - README.md – Project overview
 - Writeup-1.pdf - Project documentation
-- 
+  
 ## How to Run
 1. Download the dataset from the UCI repository
 2. Place the dataset in the project directory
