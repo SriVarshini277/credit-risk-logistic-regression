@@ -34,7 +34,13 @@ The selected threshold prioritizes identifying bad credit risks, aligning with t
 - Logistic Regression (`glm`)
 - Confusion Matrix & Classification Metrics
 - Data Visualization
-
+  
+## Files in This Repository
+- credit-risk-logistic-regression.R – Main R script implementing logistic regression model
+- germancredit.txt – Dataset with headers
+- README.md – Project overview
+- Writeup-1.pdf - Project documentation
+- 
 ## How to Run
 1. Download the dataset from the UCI repository
 2. Place the dataset in the project directory
